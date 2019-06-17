@@ -62,3 +62,4 @@ YT.CMS.WebApi/obj/Debug/YT.CMS.WebApi.pdb
 *.pdb
 *.txt
 *.cache
+*.dll
