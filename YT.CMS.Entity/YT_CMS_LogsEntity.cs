@@ -13,7 +13,7 @@ namespace YT.CMS.Entity
     {
 
         /// <summary>
-        /// ID
+        /// ID 
         /// </summary>
         public string ID
         {
