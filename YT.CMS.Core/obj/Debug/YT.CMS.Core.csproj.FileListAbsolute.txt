@@ -1,0 +1,10 @@
+E:\系统框架\YT.CMS.Web\YT.CMS.Core\bin\Debug\YT.CMS.Core.dll.config
+E:\系统框架\YT.CMS.Web\YT.CMS.Core\bin\Debug\YT.CMS.Core.dll
+E:\系统框架\YT.CMS.Web\YT.CMS.Core\bin\Debug\YT.CMS.Core.pdb
+E:\系统框架\YT.CMS.Web\YT.CMS.Core\bin\Debug\EntityFramework.dll
+E:\系统框架\YT.CMS.Web\YT.CMS.Core\bin\Debug\EntityFramework.SqlServer.dll
+E:\系统框架\YT.CMS.Web\YT.CMS.Core\bin\Debug\EntityFramework.xml
+E:\系统框架\YT.CMS.Web\YT.CMS.Core\bin\Debug\EntityFramework.SqlServer.xml
+E:\系统框架\YT.CMS.Web\YT.CMS.Core\obj\Debug\YT.CMS.Core.csprojResolveAssemblyReference.cache
+E:\系统框架\YT.CMS.Web\YT.CMS.Core\obj\Debug\YT.CMS.Core.dll
+E:\系统框架\YT.CMS.Web\YT.CMS.Core\obj\Debug\YT.CMS.Core.pdb
