@@ -17,6 +17,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "YT.CMS.Common", "YT.CMS.Com
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "YT.CMS.WebApi", "YT.CMS.WebApi\YT.CMS.WebApi.csproj", "{4F288651-2CB1-4822-A5D1-C234D51A9533}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "YT.CMS.Webs", "YT.CMS.Webs\YT.CMS.Webs.csproj", "{8CE56976-FE30-42E9-9E83-63D79BA6D989}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -51,6 +53,10 @@ Global
 		{4F288651-2CB1-4822-A5D1-C234D51A9533}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4F288651-2CB1-4822-A5D1-C234D51A9533}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4F288651-2CB1-4822-A5D1-C234D51A9533}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8CE56976-FE30-42E9-9E83-63D79BA6D989}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8CE56976-FE30-42E9-9E83-63D79BA6D989}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8CE56976-FE30-42E9-9E83-63D79BA6D989}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8CE56976-FE30-42E9-9E83-63D79BA6D989}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
