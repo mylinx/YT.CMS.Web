@@ -1,8 +1,0 @@
-E:\系统框架\YT.CMS.Web\YT.CMS.Common\bin\Debug\YT.CMS.Common.dll.config
-E:\系统框架\YT.CMS.Web\YT.CMS.Common\bin\Debug\YT.CMS.Common.dll
-E:\系统框架\YT.CMS.Web\YT.CMS.Common\bin\Debug\YT.CMS.Common.pdb
-E:\系统框架\YT.CMS.Web\YT.CMS.Common\bin\Debug\Newtonsoft.Json.dll
-E:\系统框架\YT.CMS.Web\YT.CMS.Common\bin\Debug\Newtonsoft.Json.xml
-E:\系统框架\YT.CMS.Web\YT.CMS.Common\obj\Debug\YT.CMS.Common.csprojResolveAssemblyReference.cache
-E:\系统框架\YT.CMS.Web\YT.CMS.Common\obj\Debug\YT.CMS.Common.dll
-E:\系统框架\YT.CMS.Web\YT.CMS.Common\obj\Debug\YT.CMS.Common.pdb

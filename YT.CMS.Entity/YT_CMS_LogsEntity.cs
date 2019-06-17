@@ -8,74 +8,74 @@ using System.Threading.Tasks;
 namespace YT.CMS.Entity
 {
 
-	 	//YT_CMS_Logs
-		public class YT_CMS_LogsEntity
-	{
-	
-      	/// <summary>
-		/// ID
+    //YT_CMS_Logs
+    public class YT_CMS_LogsEntity
+    {
+
+        /// <summary>
+        /// ID
         /// </summary>
-        public  string ID
+        public string ID
         {
-            get; 
-            set; 
-        }        
-		/// <summary>
-		/// LogType
+            get;
+            set;
+        }
+        /// <summary>
+        /// LogType
         /// </summary>
-        public  string LogType
+        public string LogType
         {
-            get; 
-            set; 
-        }        
-		/// <summary>
-		/// LogContent
+            get;
+            set;
+        }
+        /// <summary>
+        /// LogContent
         /// </summary>
-        public  string LogContent
+        public string LogContent
         {
-            get; 
-            set; 
-        }        
-		/// <summary>
-		/// ActionName
+            get;
+            set;
+        }
+        /// <summary>
+        /// ActionName
         /// </summary>
-        public  string ActionName
+        public string ActionName
         {
-            get; 
-            set; 
-        }        
-		/// <summary>
-		/// ContollerName
+            get;
+            set;
+        }
+        /// <summary>
+        /// ContollerName
         /// </summary>
-        public  string ContollerName
+        public string ContollerName
         {
-            get; 
-            set; 
-        }        
-		/// <summary>
-		/// CreateTime
+            get;
+            set;
+        }
+        /// <summary>
+        /// CreateTime
         /// </summary>
-        public  DateTime? CreateTime
+        public DateTime? CreateTime
         {
-            get; 
-            set; 
-        }        
-		/// <summary>
-		/// UpdateTime
+            get;
+            set;
+        }
+        /// <summary>
+        /// UpdateTime
         /// </summary>
-        public  DateTime? UpdateTime
+        public DateTime? UpdateTime
         {
-            get; 
-            set; 
-        }        
-		/// <summary>
-		/// Remark
+            get;
+            set;
+        }
+        /// <summary>
+        /// Remark
         /// </summary>
-        public  string Remark
+        public string Remark
         {
-            get; 
-            set; 
-        }        
-		   
-	}
+            get;
+            set;
+        }
+
+    }
 }
