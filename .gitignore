@@ -348,3 +348,10 @@ healthchecksdb
 
 # Backup folder for Package Reference Convert tool in Visual Studio 2017
 MigrationBackup/
+YT.CMS.WebApi/bin/YT.CMS.Common.dll
+*.dll
+YT.CMS.WebApi/bin/YT.CMS.Common.dll
+YT.CMS.WebApi/bin/YT.CMS.Core.dll
+YT.CMS.WebApi/bin/YT.CMS.Entity.dll
+*.dll
+*.dll
