@@ -111,5 +111,10 @@ namespace YT.CMS.Core
         {  
             return GetAll();
         }
+
+        public void Dispose()
+        {
+            _dbcontext.Dispose();
+        }
     }
 }

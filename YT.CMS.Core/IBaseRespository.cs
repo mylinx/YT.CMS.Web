@@ -15,6 +15,8 @@ namespace YT.CMS.Core
    public interface IBaseRepository<T> where T: class
     {
 
+        void Dispose();
+
         void SaveChange();
         /// <summary>
         /// 增加实体

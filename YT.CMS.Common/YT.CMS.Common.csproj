@@ -73,10 +73,24 @@
     <Compile Include="Serialize\Serialize.cs" />
     <Compile Include="Validate\Validate.cs" />
     <Compile Include="VerifyCode\VerifyCode.cs" />
+    <Compile Include="Web\AjaxResult.cs" />
+    <Compile Include="Web\Pagination.cs" />
+    <Compile Include="Web\TreeGrid\TreeGrid.cs" />
+    <Compile Include="Web\TreeGrid\TreeGridModel.cs" />
+    <Compile Include="Web\TreeModel.cs" />
+    <Compile Include="Web\TreeQuery.cs" />
+    <Compile Include="Web\TreeView\TreeView.cs" />
+    <Compile Include="Web\TreeView\TreeViewModel.cs" />
+    <Compile Include="Web\Tree\TreeSelect.cs" />
+    <Compile Include="Web\Tree\TreeSelectModel.cs" />
+    <Compile Include="Web\WebHelper.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
     <None Include="packages.config" />
+    <None Include="Web\TreeGrid\vssver2.scc" />
+    <None Include="Web\TreeView\vssver2.scc" />
+    <None Include="Web\Tree\vssver2.scc" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 

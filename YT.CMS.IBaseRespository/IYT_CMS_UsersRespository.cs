@@ -10,5 +10,6 @@ namespace YT.CMS.IRespository
 { 
   	public interface  IYT_CMS_UsersRespository: IBaseRepository<YT_CMS_UsersEntity>
     {
+
     }
 }
